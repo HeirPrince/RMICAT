@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "258987118751",
+    "firebase_url": "https://calculate-d4aae.firebaseio.com",
+    "project_id": "calculate-d4aae",
+    "storage_bucket": "calculate-d4aae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258987118751:android:565c8a1d8a63338f",
+        "android_client_info": {
+          "package_name": "nassaty.rmicat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258987118751-0g0gupcduejnlm59t6c129q615cgo1gr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nassaty.rmicat",
+            "certificate_hash": "4315d2a4a594eb00a37d1d83b9c28e2924c10683"
+          }
+        },
+        {
+          "client_id": "258987118751-hjc1q9s1984eo7t698cg19ubhfgjkbes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1XOp0qWTYRZbkUF2o8ILR3kYHqocBoBc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258987118751-hjc1q9s1984eo7t698cg19ubhfgjkbes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
